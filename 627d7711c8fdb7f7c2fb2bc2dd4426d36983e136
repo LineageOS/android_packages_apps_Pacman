@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAB3//+xI\u003d",
+        "filename": "src/com/teamdouche/pacman/StartupActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2011-01-18T18:32:08Z",
+      "side": 1,
+      "message": "I think there is an android.R.string.continue and android.r.string.cancel. Use that.",
+      "revId": "627d7711c8fdb7f7c2fb2bc2dd4426d36983e136",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
