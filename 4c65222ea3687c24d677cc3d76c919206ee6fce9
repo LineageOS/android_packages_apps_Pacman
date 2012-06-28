@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//7pk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-28T23:07:19Z",
+      "side": 1,
+      "message": "app \u003d applicatie",
+      "revId": "4c65222ea3687c24d677cc3d76c919206ee6fce9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7pg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-28T23:07:19Z",
+      "side": 1,
+      "message": "Street View van Google Maps?",
+      "revId": "4c65222ea3687c24d677cc3d76c919206ee6fce9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
