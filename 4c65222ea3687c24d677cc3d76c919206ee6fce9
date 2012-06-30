@@ -55,6 +55,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7YE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-06-30T00:52:19Z",
+      "side": 1,
+      "message": "Ik ook :D. Wij met onze lelijke Nederlandse grammatica. Zoals bij de andere patch \"inkomede oproepgegevens\". Het is correct maar het kan evengoed als binnenenkomende gegevens worden geïnterpreteerd.\n\nWas gewoon een vaststelling. Play Store-applicaties is wel mooier.",
+      "parentUuid": "AAAAUH//7Ys\u003d",
+      "revId": "4c65222ea3687c24d677cc3d76c919206ee6fce9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7pk\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
