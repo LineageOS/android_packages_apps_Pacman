@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7Ys\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-30T00:43:22Z",
+      "side": 1,
+      "message": "Ik vind mét koppelteken mooier...",
+      "parentUuid": "AAAAUH//7dk\u003d",
+      "revId": "4c65222ea3687c24d677cc3d76c919206ee6fce9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7pk\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
