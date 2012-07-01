@@ -194,6 +194,24 @@
       "revId": "4c65222ea3687c24d677cc3d76c919206ee6fce9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7DE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-01T18:14:32Z",
+      "side": 1,
+      "message": "Street View in Google Maps\n\nzie: https://play.google.com/store/apps/details?id\u003dcom.google.android.street\u0026hl\u003dnl",
+      "parentUuid": "AAAAUH//7dc\u003d",
+      "revId": "4c65222ea3687c24d677cc3d76c919206ee6fce9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
