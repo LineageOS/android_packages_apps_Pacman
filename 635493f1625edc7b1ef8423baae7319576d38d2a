@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//+VI\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-12T06:47:18Z",
+      "side": 1,
+      "message": "Applications",
+      "revId": "635493f1625edc7b1ef8423baae7319576d38d2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+VE\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-12T06:47:18Z",
+      "side": 1,
+      "message": "applications",
+      "revId": "635493f1625edc7b1ef8423baae7319576d38d2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+VA\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-12T06:47:18Z",
+      "side": 1,
+      "message": "program -\u003e application\nclick CANCEL below -\u003e tap on Cancel\n(also remove the last period)",
+      "revId": "635493f1625edc7b1ef8423baae7319576d38d2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
